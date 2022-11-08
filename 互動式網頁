@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <title>台東大學75週年校慶運動會</title>
+        <meta charset="utf-8">
+			<style>
+			body {
+                background-image:url("背景.jpg");     /*背景圖片*/
+				background-size:500px 333px;
+                background-repeat:repeat; 
+				/*背景圖片不重複*/
+			}
+			a {                          /*超連結*/
+				color: inherit;              /* 移除超連結顏色 */
+				text-decoration: none;  /* 移除超連結底線 */
+			}
+			</style>
+    </head>
+    <body>
+        <center>
+                 
+            <h1>臺東大學75週年校慶運動會</h1>
+            <div id="target" class="animated jello">
+                <a href="首頁.html"Target="_self"><h1>【點此進入】</h1></a>
+            </div>
+            
+            <div style="width:250px;padding:5px">
+                <iframe src=""></iframe>
+    
+        </center>
+        
+    </body>
+</html>
